@@ -1,5 +1,6 @@
 
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import BasicExample from './components/Navbar';
 import Body1 from './components/Body1';
 import Body2 from './components/Body2';
