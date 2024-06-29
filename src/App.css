@@ -1,0 +1,376 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+
+*{
+    font-family: "Manrope", sans-serif;
+}
+.body{
+    background: #040C18;
+}
+.footer{
+    background: #031B34;
+}
+.navigation{
+    background: linear-gradient(to right, #002853 ,#040a14,#040C18 )  ;
+    background-size: cover;
+}
+.signupbtn{
+    background-color: #FF4820 !important;
+}
+.firstpage{
+    max-width: 95%;
+    height: 100vh;
+}
+.letsbuild{
+ background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ margin-left: 3%;
+ font-size: 45px;
+ width: 600px;
+ line-height: 1.2
+}
+.line1, .line2, .line3 {
+   max-width: 90%;
+  }
+.headill{
+    margin-top: -7%;
+    margin-left: 42%;
+}
+.textSub{
+    width: 38%;
+    margin-top: -28%;
+    margin-left: 5%;
+    color: 
+    rgba(129, 175, 221, 1);
+}
+.form{
+    width: 600px;
+    margin-top: -28%;
+}
+.groupfoto{
+    margin-top: -10%;
+}
+.spantexts{
+    font-size: 12px;
+    margin-left: -3%;
+    margin-top: -1.5%;
+}
+.clogo{
+    margin-top: 3%;
+    margin-left: -4.5%;
+}
+.secondPage {
+    width: 90%;
+    height: 100vh;
+    background: linear-gradient(to right,#0e3164,#0a182e ,#0e3164); 
+    background-blend-mode: lighten;
+} 
+.ppt{
+    margin-top: -3%;
+}
+.gpttext{
+    color: #81AFDD;
+    margin-top: -4%;
+}
+.poss{
+    font-size: 1.8rem;
+}
+.poss,.explore,.future,.request,.beyond,.alot{
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.tri{
+    width: 100%;
+}
+.request{
+    font-size: 12px;
+}
+.po{
+    width: 380px;
+}
+.opinion,.early{
+     color: #81AFDD;
+     font-size: 12px;
+}
+.onep{
+    width: 150px;
+}
+.thirdPage{
+    width: 100%;
+    height: 100vh
+}
+.trifext{
+    margin-left: 5%;
+    width: 90%;
+    gap: 12rem;
+}
+.future{
+    width:360px ;
+}
+.tt{
+    color: #81AFDD;
+    font-size: 14px;
+}
+.pple{
+    width: 150px;
+}
+.ppl{
+    width: 120px;
+}
+.wom{
+    width: 550px;
+}
+.evr4{
+    margin-top: -12%;
+}
+.yy{
+    width: 350px;
+    margin-top: 14%;
+    margin-left: 40%;
+}
+.yet{
+    color: #81AFDD;
+    font-size: 13px;
+}
+.gst{
+    color: #FF4820;
+    font-size: 12px;
+}
+.alot{
+    width: 600px;
+}
+.fii{
+    width: 100%;
+}
+.a,.b{
+    width: 350px;
+}
+.b{
+    margin-top: 17%;
+    height: 300px;
+}
+.ba{
+    height: 300px;
+}
+.c,.d{
+    width: 300px;
+    height: 120px;
+}
+.cand{
+    margin-left: 12%;
+}
+.gand{
+    margin-left: 40%;
+    margin-top: -19%;
+}
+.eand{
+    margin-left: 5%;
+    margin-top: -19%;
+}
+.x{
+    font-size: 13px;
+    width: 50%;
+}
+.spanner{
+    font-size: 12px;
+}
+.dd{
+    margin-top: -22%;
+}
+.rfp{
+    font-size: 10px;
+    margin-top: 6%;
+}
+.ss{
+    width: 20%;
+    margin-top: -9%;
+}
+.dd{
+    width: 20%;
+}
+.oc{
+    margin-top: 80%;
+}
+.gt{
+    margin-top: -7%;
+}
+.lassp{
+    font-weight: 800;
+}
+.bbn{
+    font-size: 12px;
+}
+.ggff{
+    width: 75%;
+}
+.spanlist{
+    margin-left: 50%;
+    margin-top:-8%;
+}
+.spanlist ul li, .cren{
+    font-size: 10px;
+}
+.crenk{
+    width: 55%;
+}
+.ll{
+    width: 35%;
+}
+
+
+@media (min-width:350px) and (max-width:992px) {
+    .body{
+        background: #040C18;
+    }
+    .firstpage{
+        width: 100%;
+    }
+    .letsbuild{
+        font-size: 15px;
+        width: 100%;
+        margin:0 auto;
+    }
+    .headill{
+        margin: 70px 37px ; 
+    }
+    .subtext{
+        width: 100%;
+    }
+    .textSub{
+        margin: -120% 3% 0 4%;
+        font-size: 10px;
+        width: 90%; 
+    }
+    .form{
+        margin-top: -180%;
+        margin-left: -5%;
+        width: 80%;
+    }
+    .groupfoto{
+        margin-top: -160%;
+    }
+    .spantexts{
+        margin-top: -82%;
+        margin-left: 5%;
+    }
+    .clogo{
+        margin-top: -115%;
+        margin-left: -10%;
+    }
+
+    .secondPage{
+        width: 100%;
+        height: 100vh;
+        margin-top: -50%;
+    }
+    .tri{
+        margin-left: auto;
+    }
+    .ppt{
+        margin-left: 25%;
+    }
+    .gpttext{
+        margin-left: 10%;
+    }
+    .onep{
+        width: 90%;
+    }
+    .poss{
+        font-size: 15px;
+    }
+    .thirdPage{
+        background:#040C18 ;
+        height: 100vh;
+    }
+    .all{
+        margin-top: -30%;
+    }
+    .from{
+        margin-top: -25%;
+    }
+    .evr4{
+        margin-top: 340px;
+        width: 100%;
+    }
+    .wom{
+        margin-left: 30%;
+        width: 70%;
+    }
+    .yy{
+        margin-top: 180%;
+        margin-left: 27%;
+        width: 50%;
+        height: 10%;
+    }
+    .early,.beyond,.gst,.yet{
+        width: 100%;
+    }
+    .cta{
+        margin-top: 405px;
+        width: 80%;
+    }
+    .alot{
+        width: 80%;
+    }
+    .a{
+        margin-left: -4%;
+        height: 200px;
+        width: 320px;
+    }
+    .ba{
+        height: 150px;
+    }
+    
+    .gand,.cand{
+        margin-top: -6%;
+        margin-left: 8%;
+    }
+    
+    .eand{
+        margin-top: 3%;
+        margin-left: 8%;
+    }
+    .ss{
+        margin-top: -26%;
+        margin-left: -4%;
+        width: 50%;
+        height: 100px;
+    }
+    .gt{
+        width: 200px;
+        margin-top: -20%;
+        margin-bottom: 22%;
+    }
+  .dd{
+    margin-top: -30%;
+    width: 50%;
+  }
+  .oc{
+    margin-top: 4%;
+  }
+  .rea{
+    width: 80%;
+  }
+  .bbn{
+    width:100%;
+  }
+  .ggff{
+    width: 100%;
+    
+  }
+  .mi{
+    margin-top: 15%;
+    width: 50%;
+  }
+  .spanlist{
+    margin-top: -30%;
+    margin-left: 50%;
+  }
+
+    
+    
+
+} 
