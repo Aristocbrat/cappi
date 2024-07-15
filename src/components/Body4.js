@@ -13,7 +13,7 @@ const Body4 = () => {
             <p className='yet'>Yet bed any for travelling assistance indulgence unpleasing. 
                 Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. 
                 Party we years to order allow asked of.</p>
-            <p className='gst'>Request Early Access to Get Started</p>
+            <a href='#' className='gst text-decoration-none'>Request Early Access to Get Started</a>
         </div>
        
     </div>

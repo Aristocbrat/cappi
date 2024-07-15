@@ -21,7 +21,7 @@ const Body2 = () => {
       <div className='mt-lg-5 px-lg-4 ms-lg-2 po'>
         <img src={rect} alt='rectangle'/>
         <h4 className='text-white mx-5 mx-lg-0 px-5 px-lg-0'>Chatbots</h4>
-        <p className='opinion onep px-3 px-lg-0 ms-2 ms-lg-0'>We so opinion friends me message as delight. Whole front do of plate heard oh ought. </p>
+        <p className='opinion onep px-3 px-lg-0 ms-2 ms-lg-0 w-75'>We so opinion friends me message as delight. Whole front do of plate heard oh ought. </p>
       </div>
       <div className='mt-lg-5 px-lg-4 ms-lg-2  po'>
         <img src={rect} alt='rectangle'/>

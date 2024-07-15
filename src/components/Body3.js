@@ -7,12 +7,12 @@ const Body3 = () => {
     <div className='thirdPage mt-lg-5 '>
        <div className='trifext d-flex flex-lg-row flex-column  '>
         <div>
-          <p className='future fw-semibold fs-3 py-3 py-lg-0'>
+          <p className='future fw-semibold fs-lg-2 py-3 py-lg-0 px-4 px-lg-0'>
           The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.
           </p>
-          <p className='request mt-lg-5 '>Request Early Access to Get Started</p>
+          <a href='#' className='request mt-lg-5 pt-5 '>Request Early Access to Get Started</a>
         </div>
-        <div className='all'>
+        <div className='all d-flex flex-column'>
           <div firstline>
           <img src={rect} className='pt-2 mx-auto mx-lg-0' alt='rectangle'/>
           <p className='text-white pple mx-auto mx-lg-0'>Improving end distrusts instantly </p>
@@ -30,7 +30,7 @@ const Body3 = () => {
           <p className='text-white ppl pt-3 mx-auto mx-lg-0'>Really boy law county</p>
           </div>
         </div>
-        <div className='from '>
+        <div className='from  d-flex flex-column gap-4 mt-lg-2'>
           <p className='tt w-75 mx-auto mx-md-auto mx-lg-0'>From they fine john he give of rich he. 
             They age and draw mrs like.
              Improving end distrusts may instantly was household applauded.</p>

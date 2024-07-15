@@ -1,13 +1,19 @@
 import React from 'react'
-import cta from './../assests/images/CTA.png'
+
 
 const Body5 = () => {
   return (
-    <div className='mt-5 ms-5 ps-4'>
-     <img src={cta} className='cta' alt='cta'/> 
+    <div className='mt-lg-5 ps-lg-4 px-3 ctaa rounded'>
+      <div className='d-flex justify-content-lg-between flex-column flex-lg-row py-2 px-5 py-lg-4 bodyfive'> 
+        <div >
+        <a href='#' className='text-decoration-none text-black'>Request Early Access to Get Started</a>
+        <p className='fw-bold fs-lg-4'>Register today & start exploring the endless possiblities.</p>
+        </div>
+        <button className=' btn bg-black text-white rounded-5 px-lg-5 py-lg-2  '>Get started</button>
+      
+      </div>
      <div>
-        
-        <p className='alot mt-5 fs-1 fw-bold '>A lot is happening,<br/>
+        <p className='alot mt-lg-5 fs-lg-1 ms-auto ms-lg-0 fw-bold '>A lot is happening,<br/>
         We are blogging about it.</p>
      </div>
     </div>

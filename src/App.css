@@ -63,7 +63,7 @@
 }
 .secondPage {
     width: 90%;
-    height: 100vh;
+    height: 78vh;
     background: linear-gradient(to right,#0e3164,#0a182e ,#0e3164); 
     background-blend-mode: lighten;
 } 
@@ -75,7 +75,7 @@
     margin-top: -4%;
 }
 .poss{
-    font-size: 1.8rem;
+    font-size: 2.8rem;
 }
 .poss,.explore,.future,.request,.beyond,.alot{
     background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
@@ -108,7 +108,7 @@
     gap: 12rem;
 }
 .future{
-    width:360px ;
+    width:390px ;
 }
 .tt{
     color: #81AFDD;
@@ -128,12 +128,21 @@
 }
 .yy{
     width: 350px;
-    margin-top: 14%;
+    margin-top: 10%;
     margin-left: 40%;
+}
+.ctaa{
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    width: 85%;
+    height: 120px;
+    margin-left: 5%;
+}
+.sixthPage{
+    margin-top: 15%;
 }
 .yet{
     color: #81AFDD;
-    font-size: 13px;
+    font-size: 16px;
 }
 .gst{
     color: #FF4820;
@@ -163,7 +172,7 @@
     margin-left: 12%;
 }
 .gand{
-    margin-left: 40%;
+    margin-left: 39%;
     margin-top: -19%;
 }
 .eand{
@@ -186,13 +195,14 @@
 }
 .ss{
     width: 20%;
-    margin-top: -9%;
+    margin-top: -8%;
 }
 .dd{
+    margin-top: -20%;
     width: 20%;
 }
 .oc{
-    margin-top: 80%;
+    margin-top: 73%;
 }
 .gt{
     margin-top: -7%;
@@ -217,8 +227,34 @@
     width: 55%;
 }
 .ll{
+    margin-left: 40%;
     width: 35%;
 }
+.e-g{
+    width: 500px;
+}
+.sin{
+    width: 35px;
+    height: 70px;
+    background:#0a182e !important;
+    margin-left: 14%;
+    margin-top: -50%;
+}
+.transparent-border {
+    border: 1px solid transparent !important;
+}
+.getstarted{
+    background: #FF4820;
+    width: 174px;
+    margin-top: -50%;
+    height: 70px;
+    cursor: pointer !important;
+}
+.lassp{
+    padding-top: 10%;
+}
+
+
 
 
 @media (min-width:350px) and (max-width:992px) {
@@ -233,6 +269,21 @@
         width: 100%;
         margin:0 auto;
     }
+    .e-g{
+        width: 70%;
+    }
+    .sin{
+        margin-top: -185%;
+        margin-left: 24%;
+        width:20px;
+        height: 40px;
+    }
+    .getstarted{
+        margin-top: 10%;
+        margin-left: 50%;
+        width: 40%;
+        height: 30px;
+    }
     .headill{
         margin: 70px 37px ; 
     }
@@ -240,14 +291,9 @@
         width: 100%;
     }
     .textSub{
-        margin: -120% 3% 0 4%;
+        margin: -100% 3% 0 4%;
         font-size: 10px;
         width: 90%; 
-    }
-    .form{
-        margin-top: -180%;
-        margin-left: -5%;
-        width: 80%;
     }
     .groupfoto{
         margin-top: -160%;
@@ -289,7 +335,7 @@
         margin-top: -30%;
     }
     .from{
-        margin-top: -25%;
+        margin-top: -40%;
     }
     .evr4{
         margin-top: 340px;
@@ -298,20 +344,26 @@
     .wom{
         margin-left: 30%;
         width: 70%;
+        margin-top: -2%;
     }
     .yy{
-        margin-top: 180%;
+        margin-top: 200%;
         margin-left: 27%;
         width: 50%;
         height: 10%;
     }
+    .ctaa{
+        margin-top: 160%;
+        height: 140px;
+
+    }
+    .sixthPage{
+        margin-top: 70%;
+    }
     .early,.beyond,.gst,.yet{
         width: 100%;
     }
-    .cta{
-        margin-top: 405px;
-        width: 80%;
-    }
+    
     .alot{
         width: 80%;
     }
@@ -367,9 +419,11 @@
   }
   .spanlist{
     margin-top: -30%;
-    margin-left: 50%;
+    margin-left: 36%;
   }
-
+.lastPage{
+    margin-top: 50%;
+}
     
     
 
