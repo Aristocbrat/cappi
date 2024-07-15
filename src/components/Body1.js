@@ -22,7 +22,7 @@ const Body1 = () => {
         Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment.
          Party we years to order allow asked of.</p>
          <div className='d-flex e-g flex-column flex-lg-row flex-md-row'>
-         <input placeholder="Your email address" type="email" className="form-control sin ps-lg-5 transparent-border bg-danger " />
+         <input placeholder="Your email address" type="email" className="form-control sin ps-lg-5 transparent-border " />
          <button className='text-white getstarted d-flex align-content-center  pt-lg-4 justify-content-center '>Get started</button>
          </div>
         
