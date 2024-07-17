@@ -108,6 +108,7 @@
     gap: 12rem;
 }
 .future{
+    font-size: 30px;
     width:390px ;
 }
 .tt{
@@ -149,6 +150,7 @@
     font-size: 12px;
 }
 .alot{
+    font-size: 40px;
     width: 600px;
 }
 .fii{
@@ -365,6 +367,7 @@
     }
     
     .alot{
+        font-size: 19px;
         width: 80%;
     }
     .a{

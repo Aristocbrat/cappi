@@ -13,7 +13,7 @@ const Body5 = () => {
       
       </div>
      <div>
-        <p className='alot mt-lg-5 fs-lg-1 ms-auto ms-lg-0 fw-bold '>A lot is happening,<br/>
+        <p className='alot mt-lg-5  ms-auto ms-lg-0 fw-bold '>A lot is happening,<br/>
         We are blogging about it.</p>
      </div>
     </div>

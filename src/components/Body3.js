@@ -7,7 +7,7 @@ const Body3 = () => {
     <div className='thirdPage mt-lg-5 '>
        <div className='trifext d-flex flex-lg-row flex-column  '>
         <div>
-          <p className='future fw-semibold fs-lg-2 py-3 py-lg-0 px-4 px-lg-0'>
+          <p className='future fw-semibold  py-3 py-lg-0 px-4 px-lg-0'>
           The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.
           </p>
           <a href='#' className='request mt-lg-5 pt-5 '>Request Early Access to Get Started</a>
