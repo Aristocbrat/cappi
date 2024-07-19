@@ -12,10 +12,10 @@ const Body3 = () => {
           </p>
           <a href='#' className='request mt-lg-5 pt-5 '>Request Early Access to Get Started</a>
         </div>
-        <div className='all d-flex flex-column'>
+        <div className='all d-flex flex-column py-md-4 flex-wrap flex-md-row justify-content-md-between'>
           <div firstline>
           <img src={rect} className='pt-2 mx-auto mx-lg-0' alt='rectangle'/>
-          <p className='text-white pple mx-auto mx-lg-0'>Improving end distrusts instantly </p>
+          <p className='text-white pple mx-auto mx-lg-0 pt-md-3'>Improving end distrusts instantly </p>
           </div>
           <div firstline>
           <img src={rect} className='pt-3 mx-auto mx-lg-0' alt='rectangle'/>
@@ -30,7 +30,7 @@ const Body3 = () => {
           <p className='text-white ppl pt-3 mx-auto mx-lg-0'>Really boy law county</p>
           </div>
         </div>
-        <div className='from  d-flex flex-column gap-4 mt-lg-2'>
+        <div className='from  d-flex flex-column gap-4 mt-lg-2 '>
           <p className='tt w-75 mx-auto mx-md-auto mx-lg-0'>From they fine john he give of rich he. 
             They age and draw mrs like.
              Improving end distrusts may instantly was household applauded.</p>

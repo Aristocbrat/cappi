@@ -11,8 +11,8 @@ import rectea from './../assests/images/Rectea.png'
 
 const Body6 = () => {
   return (
-  <div className='sixthPage  mx-4 d-flex flex-column flex-lg-row flex-wrap'>
-    <div className=' w-25 ms-lg-5 ms-4  pb-5 pb-lg-0'>
+  <div className='sixthPage  mx-4 d-flex flex-column flex-lg-row flex-wrap gap-md-3'>
+    <div className=' w-25 ms-lg-5 ms-4  pb-5 pb-lg-0 and'>
        {/* <img src={recta} className='w-75' alt='a' />  */}
        <img src={rectas} className='a' /> 
        <img src={rectb} className='a ba' /> 
@@ -30,10 +30,10 @@ const Body6 = () => {
       <span className='spanner text-white '>Sep 26, 2021</span><br/>
        <span className='pa  x text-white  w-25'>
         GPT-3 and Open  AI is the future. Let us exlore how it is?</span>
-        <p className='rfp pt-2 text-white ps-3 ps-lg-0'>Read Full Article</p>
+        <p className='rfp pt-2 text-white ps-3 ps-lg-0 ps-md-0'>Read Full Article</p>
         </div>
   </div>
-  <div className='w-25 ms-lg-5 ms-4 pb-4 pb-lg-0 cand e'>
+  <div className='w-25 ms-lg-5 ms-4 pb-4 pb-lg-0 cand e '>
   <img src={rectca} className='c' alt='e'/>
   <img src={rbb} className='d' alt='f'/>
   <div className='position-absolute  ss ps-lg-3 ps-4'>
@@ -41,27 +41,27 @@ const Body6 = () => {
        <span className='pa x text-white w-25'>
         GPT-3 and Open  AI is the future. Let us exlore how it is?</span>
         </div>
-  <p className='rfp  gt ms-lg-3 text-white ps-3 ps-lg-0'>Read Full Article</p>
+  <p className='rfp  gt ms-lg-3 text-white ps-3 ps-lg-0 ps-md-2 '>Read Full Article</p>
   </div>
  
-  <div className='w-25 gand pb-4 pb-lg-0 ps-lg-3'>
+  <div className='w-25 gand pb-4 pb-lg-0 ps-lg-3 pb-md-0 '>
   <img src={rectda} className='c' alt='g' />
   <img src={rbb} className='d' alt='d'/>
   <div className='position-absolute ss ps-lg-3 ps-4'> 
-  <span className='spanner text-white '>Sep 26, 2021</span><br/>
+  <span className='spanner text-white mt-md-5'>Sep 26, 2021</span><br/>
        <span className='pa x text-white w-25'>
         GPT-3 and Open  AI is the future. Let us exlore how it is?</span>
-        <p className='rfp pt-2 text-white ps-3 ps-lg-0 '>Read Full Article</p>
+        <p className='rfp pt-2 text-white ps-3 ps-lg-0 ps-md-0 '>Read Full Article</p>
         </div>
   </div>
   <div className='w-25 eand '>
-    <img src={rectea} className='c e' alt='e' />
+    <img src={rectea} className='c ' alt='e' />
     <img src={rbb} className='d' alt='f'/>
     <div className='position-absolute ss ps-lg-3 ps-4'>
     <span className='spanner text-white'>Sep 26, 2021</span><br/>
        <span className='pa x text-white '>
         GPT-3 and Open  AI is the future. Let us exlore how it is?</span>
-        <p className='rfp pt-2 text-white ps-3 ps-lg-0 ps-3 ps-lg-0'>Read Full Article</p>
+        <p className='rfp pt-2 text-white ps-3 ps-lg-0 ps-3 ps-lg-0 mt-md-5 ps-md-0'>Read Full Article</p>
         </div>
   </div>
      
