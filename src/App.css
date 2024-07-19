@@ -414,7 +414,8 @@
     margin-top: 4%;
   }
   .rea{
-    width: 80%;
+    width: 100%;
+    background: white;
   }
   .bbn{
     width:100%;
@@ -538,6 +539,10 @@
     }
     .spanlist{
         margin-top: -7%;
+    }
+    .lassp{
+        width: 70%;
+        margin-left: 20%;
     }
 
 }
